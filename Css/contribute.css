@@ -79,3 +79,8 @@ body{
     background-color: rgb(50, 104, 173);
     font-weight: 600;
 }
+
+.budget .budget__title .intro a{
+    text-decoration: none;
+    color: #fff;
+}
